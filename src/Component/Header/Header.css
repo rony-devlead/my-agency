@@ -1,0 +1,34 @@
+/* .navbar{
+    display: flex;
+    justify-content: center;
+}
+.navbar-left{
+    margin: 10px;
+}
+.navbar-left a{
+    padding: 10px;
+    text-decoration: none;
+}
+.navbar-right{
+    margin: 10px;
+}
+.navbar-right a{
+    padding: 10px;
+    text-decoration: none;
+
+}
+.navbar-brand{
+    margin: 10px;
+}
+.navbar-brand a{
+    padding: 10px;
+    text-decoration: none;
+
+} */
+.brand{
+    margin-right: 0 !important;
+    font-size: 25px;
+}
+.navbar-bg{
+    background-color: #F6F7FB;
+}
